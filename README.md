@@ -2,7 +2,7 @@
 
 aysCloud is an Electron application.
 
-It is almost similar to aysTab, but with a couple of changes:
+It is powered by aysTab, but slightly different.
 
 **PROS**
 
