@@ -16,4 +16,4 @@ It is powered by aysTab, but slightly different.
 2. If you reset your PC, aysCloud won't remember you. This is because your AppData folder also gets wiped.
 3. aysCloud eats a lot of RAM and storage. This is because aysCloud is just Chrome.
 
-See the history of aysCloud here: youtube.com/watch?v=EcpZrmkvxxQ
+See the history of aysCloud here: https://youtube.com/watch?v=EcpZrmkvxxQ
