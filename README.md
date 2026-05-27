@@ -18,4 +18,4 @@ It is powered by aysTab, but slightly different.
 
 See the history of aysCloud here: https://youtube.com/watch?v=EcpZrmkvxxQ
 Don't want to download the app? Use this link then!
-https://turbowarp.org/embed.html?project_url=raw.githubusercontent.com/AYSemkiv/aysCloud11/main/aysCloud11.sb3&addons=full-screen,pause,remove-curved-stage-border
+https://turbowarp.org/fullscreen.html?project_url=raw.githubusercontent.com/AYSemkiv/aysCloud11/main/aysCloud11.sb3
